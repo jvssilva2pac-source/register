@@ -1,0 +1,13 @@
+{
+    "description": "Caminhos do Peruacu - Site oficial",
+    "domain": "owns.it.com",
+    "subdomain": "caminhosdoperuacu",
+    "owner": {
+        "repo": "https://github.com/jvssilva2pac-source/caminhosdoperuacu",
+        "email": "jvssilva2pac@gmail.com"
+    },
+    "record": {
+        "CNAME": "caminhosdoperuacu.pages.dev"
+    },
+    "proxied": false
+}
